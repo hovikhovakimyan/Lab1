@@ -1,4 +1,2 @@
 make: 
-	gcc -o test project2.c -Wall -Wextra
-rm:
-	del /f test.exe
+	gcc -o lab1 lab1.c -Wall -Wextra
